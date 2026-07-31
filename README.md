@@ -11,6 +11,18 @@ This project presents an end-to-end Exploratory Data Analysis (EDA) of a retail 
 
 ---
 
+## 📸 Dashboard Preview
+
+| 📈 Sales Trend | 🌎 Sales by Market |
+|----------------|--------------------|
+| ![](images/sales_trend.png) | ![](images/sales_market.png) |
+
+| 📦 Sales by Category | 💰 Discount vs Profit |
+|----------------------|-----------------------|
+| ![](images/sales_category.png) | ![](images/discount_profit.png) |
+
+---
+
 ## 🎯 Business Objectives
 
 - Analyze sales performance over time
