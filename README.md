@@ -11,6 +11,14 @@ This project presents an end-to-end Exploratory Data Analysis (EDA) of a retail 
 
 ---
 
+## 📓 Kaggle Notebook
+
+👉 **View the complete notebook here:**
+
+https://www.kaggle.com/code/chuchoolver/retail-sales-analytics-dashboard-python-eda
+
+---
+
 ## 📸 Dashboard Preview
 
 | 📈 Sales Trend | 🌎 Sales by Market |
@@ -87,14 +95,6 @@ Retail-Sales-Analytics-Python/
 ## 📈 Results
 
 The analysis identifies key sales trends, profitability drivers, customer behavior patterns, and business opportunities through interactive visualizations and data-driven insights.
-
----
-
-## 📓 Kaggle Notebook
-
-👉 **View the complete notebook here:**
-
-https://www.kaggle.com/code/chuchoolver/retail-sales-analytics-dashboard-python-eda
 
 ---
 
